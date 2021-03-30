@@ -1,3 +1,13 @@
+방법
+ADD
+COMMIT
+PUSH
+
+
+<커밋>
+git commit -m "second commit"
 
 <푸시>
 git push -u origin master
+
+https://fifo22.tistory.com/32

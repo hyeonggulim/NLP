@@ -6,4 +6,4 @@
 ##### assignment2 : 2-Layer-Neural-Network 구현 (Backpropagation 원리 파이썬으로 구현하기 without bias)
 ##### assignment3 : 2-Layer-Neural-Network 구현 (Layer에 따른 LOSS, ACC 관찰)
 ##### assignment4 : Matrix Factorization 구현하기 
-##### assignment5 
+##### assignment5 : Network Embedding via Random Walks

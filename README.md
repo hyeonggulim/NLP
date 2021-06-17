@@ -27,5 +27,5 @@ assignment10:
 
 One_page_proposal.pdf : 연구 내용에 대한 간략한 소개  
 INTRODUCTION_LOG: 연구 내용에 대한 전반적인 설명 PPT  
-final report  
+final report: 데이콘 LOG 데이터를 
   

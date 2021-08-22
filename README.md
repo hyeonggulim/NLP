@@ -7,6 +7,7 @@
 ##### 많이 참고한 블로그:
 https://github.com/seunghan96/datascience/tree/master/%5B%EC%97%B0%EA%B5%AC%EC%8B%A4%EC%9D%B8%ED%84%B4%5DComputational_Science_and_Engineering
 
+
 assignment1 : 쉬운 알고리즘 문제  
 assignment2 : 2-Layer-Neural-Network 구현 (Backpropagation 원리 파이썬으로 구현하기 without bias)  
 assignment3 : 2-Layer-Neural-Network 구현 (Layer에 따른 LOSS, ACC 관찰)  

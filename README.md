@@ -18,7 +18,7 @@ assignment7(matrix Factorization): Logistic Regression with python (without skle
 assignment7(deep walk): Logistic Regression with python (without sklearn)  
 assignment8: LINE(Large-sclae Information Network Embedding)  
 assignment9: LINE with negative sampling
-assignment10:
+
 
 ##### final_project: Log anomaly detection using NLP (데이콘의 로그 대회 추가 연구)  
 로그 대회에서 Private 점수 1등을 기록했지만 아쉬운 부분이 많았습니다. 추가적인 연구를 수행하고 싶어서 수업 final project로 연계해서 연구하려고 합니다.  
